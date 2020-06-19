@@ -1,1 +1,1 @@
-# Blog
+# Djangoblog
